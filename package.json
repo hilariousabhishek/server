@@ -1,0 +1,22 @@
+{
+  "name": "quiz_pre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "linebyline": "^1.3.0",
+    "pg": "^8.11.3",
+    "readline": "^1.3.0"
+  }
+}
